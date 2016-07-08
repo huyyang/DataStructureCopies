@@ -7,9 +7,6 @@ int main()
     build(head);
     display(head);
 
-    //PLEASE PUT YOUR CODE HERE to call the function assigned
-
-
 
     display(head); //redisplay the list after your function
     destroy(head); 
